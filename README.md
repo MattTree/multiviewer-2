@@ -6,6 +6,11 @@ A rewrite of my [Defold Multiviewer](https://github.com/rgrams/multiviewer) in L
 
 ![Demo .gif of the Defold version](demo.gif)
 
+### Getting started
+
+1. Download and install OpenAL from https://www.openal.org/downloads/
+2. Download and run MultiViewer 2 from https://github.com/rgrams/multiviewer-2/releases
+
 ### Missing features from Defold version:
 * No native file dialogs (which only worked on Windows and MacOS anyway).
 
